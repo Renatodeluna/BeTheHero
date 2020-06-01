@@ -23,9 +23,9 @@ A platform to help ONGs with open campaigns
     <img src="assets/img/cadastro_campanhas_desktopp.png" alt="BeTheHero - cadastro campanhas desktop" width="45.5%" >
     <img src="assets/img/lista_campanhas_desktop.png" alt="BeTheHero - lista campanhas desktop" width="53.5%">
     <div align="center">
-        <img src="assets/img/splash_mobile.png" alt="BeTheHero -" width="30.5%" >
-        <img src="assets/img/lista_campanhas_mobile.png" alt="BeTheHero -" width="33.7%">
-        <img src="assets/img/detalhe_campanha_mobile.png" alt="BeTheHero -" width="33.7%">
+        <img src="assets/img/splash_mobile.png" alt="BeTheHero -" width="37%" >
+        <img src="assets/img/lista_campanhas_mobile.png" alt="BeTheHero -" width="30%">
+        <img src="assets/img/detalhe_campanha_mobile.png" alt="BeTheHero -" width="30%">
     </div>
 </h3>
 
@@ -60,7 +60,7 @@ Install the dependencies on the frontend and start:
     $ yarn start
 ```
 
-To run the mobile project follow the step by step installation of the [Expo](https://docs.expo.io/versions/latest/):
+To run the mobile project follow the step by step installation of the [Expo](https://docs.expo.io/versions/latest/):<br/>
 Install the dependencies on the mobile and start:
 ```bash
     cd mobile
